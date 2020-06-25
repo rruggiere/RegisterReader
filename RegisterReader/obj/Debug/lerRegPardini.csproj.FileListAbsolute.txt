@@ -1,0 +1,20 @@
+C:\Users\reinaldo.cruz\source\repos\lerRegPardini\bin\Debug\lerRegPardini.exe.config
+C:\Users\reinaldo.cruz\source\repos\lerRegPardini\bin\Debug\lerRegPardini.exe
+C:\Users\reinaldo.cruz\source\repos\lerRegPardini\bin\Debug\lerRegPardini.pdb
+C:\Users\reinaldo.cruz\source\repos\lerRegPardini\obj\Debug\lerRegPardini.csprojAssemblyReference.cache
+C:\Users\reinaldo.cruz\source\repos\lerRegPardini\obj\Debug\lerRegPardini.csproj.CoreCompileInputs.cache
+C:\Users\reinaldo.cruz\source\repos\lerRegPardini\obj\Debug\lerRegPardini.exe
+C:\Users\reinaldo.cruz\source\repos\lerRegPardini\obj\Debug\lerRegPardini.pdb
+C:\Users\reinaldo.cruz\Desktop\Utils\Backup\Pardiini - GetStations\bin\Debug\lerRegPardini.exe.config
+C:\Users\reinaldo.cruz\Desktop\Utils\Backup\Pardiini - GetStations\bin\Debug\lerRegPardini.exe
+C:\Users\reinaldo.cruz\Desktop\Utils\Backup\Pardiini - GetStations\bin\Debug\lerRegPardini.pdb
+C:\Users\reinaldo.cruz\Desktop\Utils\Backup\Pardiini - GetStations\obj\Debug\lerRegPardini.csprojAssemblyReference.cache
+C:\Users\reinaldo.cruz\Desktop\Utils\Backup\Pardiini - GetStations\obj\Debug\lerRegPardini.exe
+C:\Users\reinaldo.cruz\Desktop\Utils\Backup\Pardiini - GetStations\obj\Debug\lerRegPardini.pdb
+C:\Users\reina\Projects\RegisterReader\bin\Debug\lerRegPardini.exe.config
+C:\Users\reina\Projects\RegisterReader\bin\Debug\lerRegPardini.exe
+C:\Users\reina\Projects\RegisterReader\bin\Debug\lerRegPardini.pdb
+C:\Users\reina\Projects\RegisterReader\obj\Debug\lerRegPardini.csprojAssemblyReference.cache
+C:\Users\reina\Projects\RegisterReader\obj\Debug\lerRegPardini.csproj.CoreCompileInputs.cache
+C:\Users\reina\Projects\RegisterReader\obj\Debug\lerRegPardini.exe
+C:\Users\reina\Projects\RegisterReader\obj\Debug\lerRegPardini.pdb
